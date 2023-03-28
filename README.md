@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paramesh016
-- 👀 I’m interested in Python, React, Data science, Machine Learning
-- 🌱 I’m currently learning Full stack developer
+- 👀 I’m interested in Python, React, Devops
+- 🌱 I’m currently a Full stack developer
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me workpammu@gmail.com
 
